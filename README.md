@@ -9,7 +9,7 @@ loading fonts from memory is inserted after it.
 ## Recipe
 - Using MacOSX Catalina (10.15)
 - Open a DAW (tested in Logic Pro X (10.5.1) and Cubase (10.5.20))
-- Insert any iZotope RX plug-in, from verion 7 or 8
+- Insert any iZotope RX plug-in, from version 7 or 8
 - Insert the FontTest plug-in in the next insert slot
 - Close and open the RX GUI (sometimes takes two or three times to crash).
 
